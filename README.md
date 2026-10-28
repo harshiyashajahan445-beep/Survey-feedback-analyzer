@@ -1,7 +1,5 @@
 # Survey-feedback-analyzer
 A Python-based data cleaning and text analysis tool for survey feedback entries utilizing dictionaries, loops, string operations, and user-defined functions.
-# Survey Feedback Analyzer 
-
 A simple Python project I built to practice Python fundamentals by analyzing customer survey feedback. 
 
 ## What this project does:
